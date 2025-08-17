@@ -112,4 +112,4 @@ def create_all_charts(df):
     fig5.write_html("outputs/national_vs_states.html")
 
 
-print("✅ All Plotly plots saved in 'outputs'")
+print("✅ All Plotly plots saved in the 'outputs' folder")
