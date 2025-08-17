@@ -1,0 +1,12 @@
+# Core dependencies
+pandas
+numpy
+requests
+matplotlib
+seaborn
+plotly
+python-dotenv
+
+# Notebook support
+nbformat
+ipykernel
