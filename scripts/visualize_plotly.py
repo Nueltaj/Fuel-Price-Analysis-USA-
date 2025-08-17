@@ -110,3 +110,6 @@ def create_all_charts(df):
     )
     fig5.update_xaxes(tickangle=60)
     fig5.write_html("outputs/national_vs_states.html")
+
+
+print("✅ All Plotly plots saved in 'outputs'")
