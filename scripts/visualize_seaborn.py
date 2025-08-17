@@ -68,7 +68,7 @@ def plot_scatter(df):
     Outputs:
         Saves scatter plot to: outputs/plots/Fuel_Product_Prices_YYYY-MM-DD.png
     """
-    plt.figure(figsize=(8, 5))
+    plt.figure(figsize=(14, 7))
     sns.scatterplot(
         x="value",
         y="product-name",
@@ -84,8 +84,8 @@ def plot_scatter(df):
     plt.ylabel("Product Type")
     plt.legend(bbox_to_anchor=(1.05, 1), loc="upper left")
     today_str = date.today().strftime("%Y-%m-%d")
-    plt.savefig(os.path.join(PLOT_DIR, f"Fuel_Product_Prices_{today_str}.png"))
     plt.tight_layout()
+    plt.savefig(os.path.join(PLOT_DIR, f"Fuel_Product_Prices_{today_str}.png"),dpi=300,bbox_inches="tight")
 
 
 def plot_price_trend(df):
@@ -101,7 +101,7 @@ def plot_price_trend(df):
     Outputs:
         Saves line plot to: outputs/plots/Prices_Trend_Over_the_Years_YYYY-MM-DD.png
     """
-    plt.figure(figsize=(8, 5))
+    plt.figure(figsize=(14, 7))
     sns.lineplot(x="period", y="value", data=df, hue="product-name", palette="husl")
     plt.xticks(rotation=60)
     plt.title("Prices ($/Gallon) Trend Over the Years", pad=20)
@@ -109,10 +109,11 @@ def plot_price_trend(df):
     plt.ylabel("Cost ($/GAL)")
     plt.legend(bbox_to_anchor=(1.05, 1), loc="upper left")
     today_str = date.today().strftime("%Y-%m-%d")
-    plt.savefig(
-        os.path.join(PLOT_DIR, f"Prices_Prices_Trend_Over_the_Years_{today_str}.png")
-    )
     plt.tight_layout()
+    plt.savefig(
+        os.path.join(PLOT_DIR, f"Prices_Prices_Trend_Over_the_Years_{today_str}.png"),dpi=300,bbox_inches="tight"
+    )
+    
 
 
 def plot_regional_cost(df):
@@ -130,7 +131,7 @@ def plot_regional_cost(df):
         Saves bar plot to: outputs/plots/Regional_Cost_by_Area_and_Product_YYYY-MM-DD.png
     """
     data_2024_25 = df[df["period"].dt.year.isin([2024, 2025])]
-    plt.figure(figsize=(12, 6))
+    plt.figure(figsize=(14, 7))
     sns.barplot(data=data_2024_25, x="area-name", y="value", hue="product-name")
     plt.xticks(rotation=60)
     plt.title("Regional Cost by Area and Product (2024–2025)", pad=20)
@@ -138,10 +139,11 @@ def plot_regional_cost(df):
     plt.xlabel("Region")
     plt.legend(bbox_to_anchor=(1.05, 1), loc="upper left")
     today_str = date.today().strftime("%Y-%m-%d")
-    plt.savefig(
-        os.path.join(PLOT_DIR, f"Regional_Cost_by_Area_and_Product_{today_str}.png")
-    )
     plt.tight_layout()
+    plt.savefig(
+        os.path.join(PLOT_DIR, f"Regional_Cost_by_Area_and_Product_{today_str}.png"),dpi=300,bbox_inches="tight"
+    )
+    
 
 
 def plot_fuel_type_comparison(df):
@@ -164,7 +166,7 @@ def plot_fuel_type_comparison(df):
         >>> plot_fuel_type_comparison(cleaned_data)
     """
     data_2024_25 = df[df["period"].dt.year.isin([2024, 2025])]
-    plt.figure(figsize=(10, 5))
+    plt.figure(figsize=(14, 7))
     sns.barplot(data=data_2024_25, x="product-name", y="value", hue="period")
     plt.xticks(rotation=45)
     plt.title("Fuel type Cost by Area and Time (2024–2025)", pad=20)
@@ -172,9 +174,9 @@ def plot_fuel_type_comparison(df):
     plt.xlabel("Product Name")
     plt.legend(bbox_to_anchor=(1.05, 1), loc="upper left")
     today_str = date.today().strftime("%Y-%m-%d")
-    plt.savefig(os.path.join(PLOT_DIR, f"Fuel_Type_Cost_Comparison_{today_str}.png"))
     plt.tight_layout()
-
+    plt.savefig(os.path.join(PLOT_DIR, f"Fuel_Type_Cost_Comparison_{today_str}.png"),dpi=300,bbox_inches="tight")
+    
 
 def plot_us_trend_vs_states(df):
     """
@@ -196,7 +198,7 @@ def plot_us_trend_vs_states(df):
     Example:
         >>> plot_us_trend_vs_states(cleaned_data)
     """
-    plt.figure(figsize=(8, 5))
+    plt.figure(figsize=(14, 7))
     sns.lineplot(x="period", y="value", data=df, hue="area-name", palette="tab20")
     plt.xticks(rotation=60)
     plt.title("U.S. National Trend vs States", pad=20)
@@ -205,9 +207,10 @@ def plot_us_trend_vs_states(df):
     plt.legend(bbox_to_anchor=(1.05, 1), loc="upper left")
     plt.tight_layout()
     today_str = date.today().strftime("%Y-%m-%d")
+    plt.tight_layout()
     plt.savefig(
-        os.path.join(PLOT_DIR, f"U_S__National_Trend_vs_States_{today_str}.png")
+        os.path.join(PLOT_DIR, f"U_S__National_Trend_vs_States_{today_str}.png"),dpi=300,bbox_inches="tight"
     )
-
+    
 
 print(f"✅ All Seaborn plots saved in '{PLOT_DIR}'")

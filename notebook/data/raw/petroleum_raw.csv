@@ -696,8 +696,8 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2014,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R5XCA_DPG,West Coast (PADD 5) Except California No 2 Diesel Retail Prices (Dollars per Gallon),3.848,$/GAL
 2014,R1Y,PADD 1B,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.533,$/GAL
 2014,R40,PADD 4,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R40_DPG,Rocky Mountain Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.335,$/GAL
-2014,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.007,$/GAL
 2014,R10,PADD 1,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R10_DPG,East Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.47,$/GAL
+2014,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.007,$/GAL
 2014,R1X,PADD 1A,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Retail Prices (Dollars per Gallon),4.007,$/GAL
 2014,R20,PADD 2,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R20_DPG,Midwest All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.511,$/GAL
 2014,R20,PADD 2,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R20_DPG,Midwest All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.36,$/GAL
@@ -784,8 +784,8 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2015,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R5XCA_DPG,West Coast (PADD 5) Except California No 2 Diesel Retail Prices (Dollars per Gallon),2.755,$/GAL
 2015,R30,PADD 3,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R30_DPG,Gulf Coast No 2 Diesel Retail Prices (Dollars per Gallon),2.576,$/GAL
 2015,R1Y,PADD 1B,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1Y_DPG,Central Atlantic (PADD 1B) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),2.927,$/GAL
-2015,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),2.892,$/GAL
 2015,R40,PADD 4,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R40_DPG,Rocky Mountain No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),2.674,$/GAL
+2015,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),2.892,$/GAL
 2015,SCA,CALIFORNIA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_SCA_DPG,California No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.015,$/GAL
 2015,NUS,U.S.,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_NUS_DPG,U.S. Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.429,$/GAL
 2015,R20,PADD 2,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R20_DPG,Midwest No 2 Diesel Retail Prices (Dollars per Gallon),2.64,$/GAL
@@ -832,8 +832,8 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2016,R50,PADD 5,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R50_DPG,West Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.646,$/GAL
 2016,R1Y,PADD 1B,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.312,$/GAL
 2016,R40,PADD 4,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R40_DPG,Rocky Mountain Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),2.532,$/GAL
-2016,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),2.38,$/GAL
 2016,R1X,PADD 1A,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1X_DPG,New England (PADD 1A) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.148,$/GAL
+2016,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),2.38,$/GAL
 2016,R20,PADD 2,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R20_DPG,Midwest Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),2.561,$/GAL
 2016,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),2.684,$/GAL
 2016,R30,PADD 3,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R30_DPG,Gulf Coast No 2 Diesel Retail Prices (Dollars per Gallon),2.177,$/GAL
@@ -911,9 +911,9 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2017,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R5XCA_DPG,West Coast (PADD 5) Except California Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.634,$/GAL
 2017,R50,PADD 5,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R50_DPG,West Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.948,$/GAL
 2017,R1Y,PADD 1B,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1Y_DPG,Central Atlantic (PADD 1B) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),2.822,$/GAL
-2017,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),2.69,$/GAL
 2017,R1X,PADD 1A,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1X_DPG,New England (PADD 1A) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.425,$/GAL
 2017,R1X,PADD 1A,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1X_DPG,New England (PADD 1A) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),2.533,$/GAL
+2017,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),2.69,$/GAL
 2017,SCA,CALIFORNIA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SCA_DPG,California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.274,$/GAL
 2017,NUS,U.S.,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_NUS_DPG,U.S. No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),2.65,$/GAL
 2017,R20,PADD 2,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R20_DPG,Midwest All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.405,$/GAL
@@ -968,9 +968,9 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2018,R1X,PADD 1A,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1X_DPG,New England (PADD 1A) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.742,$/GAL
 2018,NUS,U.S.,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_NUS_DPG,U.S. All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.008,$/GAL
 2018,R20,PADD 2,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R20_DPG,Midwest Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.215,$/GAL
-2018,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.237,$/GAL
 2018,R10,PADD 1,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R10_DPG,East Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.768,$/GAL
 2018,R1X,PADD 1A,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1X_DPG,New England (PADD 1A) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),2.826,$/GAL
+2018,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.237,$/GAL
 2018,SCA,CALIFORNIA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SCA_DPG,California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.769,$/GAL
 2018,R20,PADD 2,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R20_DPG,Midwest No 2 Diesel Retail Prices (Dollars per Gallon),3.11,$/GAL
 2018,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R5XCA_DPG,West Coast (PADD 5) Except California No 2 Diesel Retail Prices (Dollars per Gallon),3.354,$/GAL
@@ -1073,10 +1073,10 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2020,R1Y,PADD 1B,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.282,$/GAL
 2020,R1Y,PADD 1B,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),2.786,$/GAL
 2020,R1Y,PADD 1B,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),2.308,$/GAL
-2020,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),2.723,$/GAL
 2020,R10,PADD 1,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R10_DPG,East Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),2.261,$/GAL
 2020,R10,PADD 1,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R10_DPG,East Coast No 2 Diesel Retail Prices (Dollars per Gallon),2.624,$/GAL
 2020,R1X,PADD 1A,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1X_DPG,New England (PADD 1A) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),2.228,$/GAL
+2020,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),2.723,$/GAL
 2020,SCA,CALIFORNIA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SCA_DPG,California Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.05,$/GAL
 2020,SCA,CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_SCA_DPG,California No 2 Diesel Retail Prices (Dollars per Gallon),3.377,$/GAL
 2020,NUS,U.S.,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_NUS_DPG,U.S. Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),2.834,$/GAL
@@ -1110,11 +1110,11 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2021,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R5XCA_DPG,West Coast (PADD 5) Except California No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.484,$/GAL
 2021,R50,PADD 5,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R50_DPG,West Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.7,$/GAL
 2021,R1Y,PADD 1B,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.145,$/GAL
-2021,SCA,CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_SCA_DPG,California No 2 Diesel Retail Prices (Dollars per Gallon),4.164,$/GAL
 2021,R40,PADD 4,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R40_DPG,Rocky Mountain No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.399,$/GAL
 2021,R1X,PADD 1A,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1X_DPG,New England (PADD 1A) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.029,$/GAL
 2021,R1X,PADD 1A,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Retail Prices (Dollars per Gallon),3.228,$/GAL
 2021,SCA,CALIFORNIA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_SCA_DPG,California No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.164,$/GAL
+2021,SCA,CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_SCA_DPG,California No 2 Diesel Retail Prices (Dollars per Gallon),4.164,$/GAL
 2021,R20,PADD 2,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R20_DPG,Midwest No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.214,$/GAL
 2021,R30,PADD 3,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R30_DPG,Gulf Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),2.692,$/GAL
 2021,R30,PADD 3,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R30_DPG,Gulf Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.315,$/GAL
@@ -1155,8 +1155,8 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2021,R50,PADD 5,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R50_DPG,West Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.979,$/GAL
 2021,R1Y,PADD 1B,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.07,$/GAL
 2021,R1Y,PADD 1B,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.591,$/GAL
-2021,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.228,$/GAL
 2021,R40,PADD 4,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R40_DPG,Rocky Mountain No 2 Diesel Retail Prices (Dollars per Gallon),3.399,$/GAL
+2021,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.228,$/GAL
 2021,SCA,CALIFORNIA,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_SCA_DPG,California Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.013,$/GAL
 2021,NUS,U.S.,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_NUS_DPG,U.S. No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.287,$/GAL
 2021,R50,PADD 5,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R50_DPG,West Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.803,$/GAL
@@ -1170,11 +1170,11 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2022,R40,PADD 4,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R40_DPG,Rocky Mountain All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.094,$/GAL
 2022,R30,PADD 3,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R30_DPG,Gulf Coast No 2 Diesel Retail Prices (Dollars per Gallon),4.683,$/GAL
 2022,R40,PADD 4,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R40_DPG,Rocky Mountain Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.983,$/GAL
-2022,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),5.272,$/GAL
 2022,R40,PADD 4,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R40_DPG,Rocky Mountain No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.974,$/GAL
 2022,R40,PADD 4,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R40_DPG,Rocky Mountain No 2 Diesel Retail Prices (Dollars per Gallon),4.974,$/GAL
 2022,R10,PADD 1,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R10_DPG,East Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.521,$/GAL
 2022,R10,PADD 1,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R10_DPG,East Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),5.07,$/GAL
+2022,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),5.272,$/GAL
 2022,SCA,CALIFORNIA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SCA_DPG,California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),5.687,$/GAL
 2022,SCA,CALIFORNIA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_SCA_DPG,California No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),6.028,$/GAL
 2022,NUS,U.S.,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_NUS_DPG,U.S. Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.951,$/GAL
@@ -1186,10 +1186,10 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2022,R30,PADD 3,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R30_DPG,Gulf Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.517,$/GAL
 2022,R50,PADD 5,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R50_DPG,West Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),4.952,$/GAL
 2022,R50,PADD 5,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R50_DPG,West Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),5.281,$/GAL
-2022,SCA,CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_SCA_DPG,California No 2 Diesel Retail Prices (Dollars per Gallon),6.028,$/GAL
 2022,R10,PADD 1,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R10_DPG,East Coast No 2 Diesel Retail Prices (Dollars per Gallon),5.07,$/GAL
 2022,R1X,PADD 1A,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1X_DPG,New England (PADD 1A) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),4.075,$/GAL
 2022,SCA,CALIFORNIA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SCA_DPG,California All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),5.406,$/GAL
+2022,SCA,CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_SCA_DPG,California No 2 Diesel Retail Prices (Dollars per Gallon),6.028,$/GAL
 2022,NUS,U.S.,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_NUS_DPG,U.S. No 2 Diesel Retail Prices (Dollars per Gallon),4.989,$/GAL
 2022,R50,PADD 5,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R50_DPG,West Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),5.468,$/GAL
 2022,R50,PADD 5,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R50_DPG,West Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),5.065,$/GAL
@@ -1234,10 +1234,10 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2023,R30,PADD 3,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R30_DPG,Gulf Coast No 2 Diesel Retail Prices (Dollars per Gallon),3.915,$/GAL
 2023,R50,PADD 5,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R50_DPG,West Coast No 2 Diesel Retail Prices (Dollars per Gallon),4.942,$/GAL
 2023,R1Y,PADD 1B,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R1Y_DPG,Central Atlantic (PADD 1B) All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.668,$/GAL
-2023,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.514,$/GAL
 2023,R40,PADD 4,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R40_DPG,Rocky Mountain No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.359,$/GAL
 2023,R10,PADD 1,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R10_DPG,East Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.176,$/GAL
 2023,R10,PADD 1,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R10_DPG,East Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.584,$/GAL
+2023,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.514,$/GAL
 2023,R1X,PADD 1A,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Retail Prices (Dollars per Gallon),4.514,$/GAL
 2023,NUS,U.S.,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_NUS_DPG,U.S. No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.214,$/GAL
 2023,R20,PADD 2,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R20_DPG,Midwest All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.792,$/GAL
@@ -1267,8 +1267,8 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2023,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R5XCA_DPG,West Coast (PADD 5) Except California No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.581,$/GAL
 2023,R50,PADD 5,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R50_DPG,West Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),4.785,$/GAL
 2023,R40,PADD 4,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R40_DPG,Rocky Mountain Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.597,$/GAL
-2023,SCA,CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_SCA_DPG,California No 2 Diesel Retail Prices (Dollars per Gallon),5.357,$/GAL
 2023,R40,PADD 4,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R40_DPG,Rocky Mountain All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.715,$/GAL
+2023,SCA,CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_SCA_DPG,California No 2 Diesel Retail Prices (Dollars per Gallon),5.357,$/GAL
 2023,NUS,U.S.,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_NUS_DPG,U.S. Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.373,$/GAL
 2023,R30,PADD 3,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R30_DPG,Gulf Coast Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.091,$/GAL
 2023,R30,PADD 3,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R30_DPG,Gulf Coast Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),3.831,$/GAL
@@ -1302,9 +1302,9 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2024,R20,PADD 2,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R20_DPG,Midwest No 2 Diesel Retail Prices (Dollars per Gallon),3.696,$/GAL
 2024,R20,PADD 2,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R20_DPG,Midwest All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),3.242,$/GAL
 2024,R20,PADD 2,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R20_DPG,Midwest Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.163,$/GAL
+2024,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.065,$/GAL
 2024,R1X,PADD 1A,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1X_DPG,New England (PADD 1A) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.245,$/GAL
 2024,R10,PADD 1,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R10_DPG,East Coast All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.385,$/GAL
-2024,R1X,PADD 1A,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R1X_DPG,New England (PADD 1A) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.065,$/GAL
 2024,R50,PADD 5,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R50_DPG,West Coast No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),4.415,$/GAL
 2024,R5XCA,PADD 5 EXCEPT CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R5XCA_DPG,West Coast (PADD 5) Except California No 2 Diesel Retail Prices (Dollars per Gallon),3.966,$/GAL
 2024,SCA,CALIFORNIA,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_SCA_DPG,California All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.642,$/GAL
@@ -1320,9 +1320,9 @@ period,duoarea,area-name,product,product-name,process,process-name,series,series
 2024,R1Y,PADD 1B,EPMR,Regular Gasoline,PTE,Retail Sales,EMM_EPMR_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Regular All Formulations Retail Gasoline Prices (Dollars per Gallon),3.357,$/GAL
 2024,R20,PADD 2,EPD2DXL0,No 2 Diesel Low Sulfur (0-15 ppm),PTE,Retail Sales,EMD_EPD2DXL0_PTE_R20_DPG,Midwest No 2 Diesel Ultra Low Sulfur (0-15 ppm) Retail Prices (Dollars per Gallon),3.696,$/GAL
 2024,NUS,U.S.,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_NUS_DPG,U.S. No 2 Diesel Retail Prices (Dollars per Gallon),3.76,$/GAL
+2024,SCA,CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_SCA_DPG,California No 2 Diesel Retail Prices (Dollars per Gallon),4.931,$/GAL
 2024,SCA,CALIFORNIA,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_SCA_DPG,California Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.985,$/GAL
 2024,R1X,PADD 1A,EPM0R,Reformulated Motor Gasoline,PTE,Retail Sales,EMM_EPM0R_PTE_R1X_DPG,New England (PADD 1A) All Grades Reformulated Retail Gasoline Prices (Dollars per Gallon),3.38,$/GAL
-2024,SCA,CALIFORNIA,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_SCA_DPG,California No 2 Diesel Retail Prices (Dollars per Gallon),4.931,$/GAL
 2024,R1Y,PADD 1B,EPMP,Premium Gasoline,PTE,Retail Sales,EMM_EPMP_PTE_R1Y_DPG,Central Atlantic (PADD 1B) Premium All Formulations Retail Gasoline Prices (Dollars per Gallon),4.15,$/GAL
 2024,R50,PADD 5,EPD2D,No 2 Diesel,PTE,Retail Sales,EMD_EPD2D_PTE_R50_DPG,West Coast No 2 Diesel Retail Prices (Dollars per Gallon),4.415,$/GAL
 2024,R50,PADD 5,EPM0,Total Gasoline,PTE,Retail Sales,EMM_EPM0_PTE_R50_DPG,West Coast All Grades All Formulations Retail Gasoline Prices (Dollars per Gallon),4.315,$/GAL
